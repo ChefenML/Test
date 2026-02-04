@@ -1,6 +1,3 @@
-package Lesson04.Costructor.Triangle;//package Lesson04.Costructor.Triangle;
-
-
 public class Triangle {
     // attributes (fields)
     double sideA;
@@ -34,3 +31,4 @@ public class Triangle {
         System.out.println("Area = " + getArea());
     }
 }
+
