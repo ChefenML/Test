@@ -1,5 +1,3 @@
-package Lesson04.Costructor.Triangle;//package Lesson04.Costructor.Triangle;
-
 public class TriangleTest {
     public static void main(String[] args) {
         Triangle t1 = new Triangle(3, 4, 5);
@@ -19,4 +17,5 @@ public class TriangleTest {
             System.out.println("T2 er Større!");
         }
     }
+
 }
