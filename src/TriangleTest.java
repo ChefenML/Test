@@ -12,10 +12,11 @@ public class TriangleTest {
 
         System.out.println("Hvilken er størst Trekant#1 eller Trekant#2");
         if (areal1 > areal2) {
-            System.out.println("T1 er større!");
+            System.out.println("Trekant#1 er større!");
         } else {
-            System.out.println("T2 er Større!");
+            System.out.println("Trekant#2 er Større!");
         }
     }
 
 }
+
